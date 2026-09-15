@@ -83,6 +83,44 @@ Analyzed:
 - Customers with the highest number of orders
 - Customers generating losses
 
+## Visualizations
+
+### Sales by Category
+
+![Sales by Category](charts/sales_by_category.png)
+
+### Profit by Category
+
+![Profit by Category](charts/profit_by_category.png)
+
+### Monthly Sales Trend
+
+![Monthly Sales Trend](charts/monthly_sales_trend.png)
+
+### Monthly Profit Trend
+
+![Monthly Profit Trend](charts/monthly_profit_trend.png)
+
+### Profit by City
+
+![Profit by City](charts/profit_by_city.png)
+
+### Top Customers by Profit
+
+![Top Customers by Profit](charts/top_customers_by_profit.png)
+
+### Top Sub-Categories by Profit
+
+![Top Sub-Categories by Profit](charts/top_subcategories_by_profit.png)
+
+### Loss-making Sub-Categories
+
+![Loss-making Sub-Categories](charts/loss_making_subcategories.png)
+
+### Monthly Target Achievement
+
+![Monthly Target Achievement](charts/monthly_target_achievement.png)
+
 ## Key Business Insights
 
 - Total Sales: **₹431,502**
